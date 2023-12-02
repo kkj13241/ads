@@ -372,7 +372,7 @@ pre {
 {
 	display: table;
 	table-layout: fixed;
-	margin: 10px;
+	margin: 5px;
 }
 
 .divTable{
@@ -381,7 +381,7 @@ pre {
 }
 
 .divTable2{
-	width: 275px;
+	width: 220px;
 	#width: 280px;
 	text-align: center;
 }
