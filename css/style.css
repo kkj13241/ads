@@ -381,14 +381,14 @@ pre {
 }
 
 .divTable2{
-	width: 355px;
+	width: 275px;
 	#width: 280px;
 	text-align: center;
 }
 
 .divTableRow {
 	display: table-row;
-	font-size: 30px;
+	font-size: 20px;
 }
 
 .divTableCell, .divTableCellInfo, .divTableCellButtons, .divTableHead, .divTableCellRed, .divTableCellYellow, .divTableCellLime, .divTableCellCyan, .divTableCellMagenta, .divTableHeadRed, .divTableHeadYellow, .divTableHeadLime, .divTableHeadCyan, .divTableHeadMagenta {
